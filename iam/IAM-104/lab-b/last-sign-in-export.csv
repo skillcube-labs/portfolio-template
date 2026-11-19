@@ -1,0 +1,14 @@
+login,firstName,lastName,department,title,lastSignIn
+fahad@prayanbank.example,Fahad,PB-04731,Finance,Finance Clerk,2026-11-06
+zain@prayanbank.example,Zain,PB-03719,Marketing,Marketing Officer,2026-06-02
+vikas@prayanbank.example,Vikas,PB-04409,Branches,Teller,2026-11-09
+nasir@prayanbank.example,Nasir,PB-03935,Finance,Finance Clerk,2026-04-18
+mukul@prayanbank.example,Mukul,PB-03250,Customer Service,Customer Service Officer,2026-11-10
+akash@prayanbank.example,Akash,PB-04049,Procurement,Procurement Officer,2026-11-05
+hamid@prayanbank.example,Hamid,PB-07401,Branches,Teller,2026-08-20
+svc-backup@prayanbank.example,Backup,Service,IT,Service Account,Never
+ketan@prayanbank.example,Ketan,PB-08041,Procurement,Procurement Officer,2026-07-21
+rosy@prayanbank.example,Rosy,PB-02273,Customer Service,Customer Service Officer,2026-11-08
+akash.v@prayanbank.example,Akash,PB-04049,Procurement,Procurement Officer,2026-02-14
+firoz@prayanbank.example,Firoz,PB-02997,Marketing,Marketing Officer,2026-10-28
+rosy.s@prayanbank.example,Rosy,PB-02273,Customer Service,Customer Service Officer,2026-11-03

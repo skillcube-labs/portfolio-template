@@ -1,0 +1,9 @@
+Line,Staff Member,Staff No.,Job Title,Department,App,How Assigned,Last Used,SoD Check,Decision,Justification,Removed in Tenant
+1,Junaid,PB-10418,Payments Clerk,Finance,Payments App,Group: Finance Clerk Role,Today,,,,
+2,Junaid,PB-10418,Payments Clerk,Finance,Payments App,Group: Payments Approver Role,2 weeks ago,,,,
+3,Shanti,PB-06157,Payments Team Lead,Finance,Payments App,Group: Payments Approver Role,Yesterday,,,,
+4,Shanti,PB-06157,Payments Team Lead,Finance,Payments App,Group: Finance Clerk Role,5 months ago,,,,
+5,Zakir,PB-08692,Finance Analyst,Finance,Finance Ledger,Direct,Last week,,,,
+6,Zakir,PB-08692,Finance Analyst,Finance,Payments App,Group: Payments Approver Role,Never,,,,
+7,Ravish,PB-11327,Developer,IT,Finance Ledger,Direct,Last week,,,,
+8,Ravish,PB-11327,Developer,IT,Prayan Staff Portal,Direct,Today,,,,

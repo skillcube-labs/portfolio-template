@@ -1,0 +1,8 @@
+login,firstName,lastName,email,department,title
+divya@prayanbank.example,Divya,PB-11647,divya@prayanbank.example,Branches,Teller
+ela@prayanbank.example,Ela,PB-10582,ela@prayanbank.example,Branches,Teller
+tanuj@prayanbank.example,Tanuj,PB-09274,tanuj@prayanbank.example,Branches,Teller
+keshav@prayanbank.example,Keshav,PB-05931,keshav@prayanbank.example,Branches,Branch Manager
+moni@prayanbank.example,Moni,PB-08415,moni@prayanbank.example,Customer Service,Customer Service Officer
+udit@prayanbank.example,Udit,PB-11062,udit@prayanbank.example,Customer Service,Customer Service Officer
+nehal@prayanbank.example,Nehal,PB-07738,nehal@prayanbank.example,Customer Service,Customer Service Officer

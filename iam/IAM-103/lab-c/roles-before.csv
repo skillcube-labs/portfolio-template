@@ -1,0 +1,15 @@
+Role,Gives Access To,People Holding It
+Teller,Teller App; Cash Records,40
+Teller Branch 6,Teller App; Cash Records,6
+Teller Plus,Teller App; Cash Records; Loans App,3
+Senior Teller,Teller App; Cash Records; Branch Reports,5
+Loans Officer,Loans App; Customer Records; Credit Checks,18
+Loans Officer Branch 9,Loans App; Customer Records; Credit Checks,4
+Loans Officer Temp,Loans App; Customer Records,2
+Loans Officer Plus Reports,Loans App; Customer Records; Credit Checks; Loan Reports,3
+Loans Team All,Loans App; Customer Records; Credit Checks; Loan Reports; Teller App; Cash Records,7
+Customer Service Officer,Customer Service Desk; Customer Records,22
+Customer Service Cover,Customer Service Desk; Customer Records; Loans App,5
+Branch Manager,Teller App; Cash Records; Branch Reports,12
+Branch Manager Acting,Teller App; Cash Records; Branch Reports; Payroll Admin,2
+Branch Ops All Access,Teller App; Cash Records; Branch Reports; Loans App; Customer Service Desk; Payroll Admin,4
